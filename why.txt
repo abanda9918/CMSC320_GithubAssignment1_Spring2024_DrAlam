@@ -1,0 +1,8 @@
+Q: "Why are you interested in taking CMSC320?"
+
+A: I have been interested in math for most of 
+my life, and after gaining an interest in computer 
+science as well, I realized that Data Science was 
+a combination of the two. This is also a growing 
+field, so I want to find out if this potential 
+career path is for me.
